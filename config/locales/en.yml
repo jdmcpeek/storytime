@@ -1,0 +1,41 @@
+en:
+  hello: "hello"
+  week:
+    - Sunday
+    - Monday
+    - Tuesday
+    - Wednesday
+    - Thursday
+    - Friday
+    - Saturday
+  defaults:
+    teacher: "your teacher"
+    child: "your child"
+  user_response:
+    help:   "Hi, this is StoryTime! We help your teacher send free nightly stories.\n\n - To stop, reply STOP\n - For help, contact 561-212-5831"
+    stop:   "Okay, you'll stop getting messages! If you want free books again just type GO"
+    thanks: "You're welcome :)"
+    robot:  "Hi __PARENT__! StoryTime is an automated program that helps your teacher. If you need help just reply HELP"
+    learn: "StoryTime sends free stories by text and Facebook.\n\nFor help: 561-212-5831\nTo stop, text STOP"
+    teacher_reply:
+      session: "I'll see your message by tonight! If you need more help, call StoryTime at 561-212-5831"
+      no_session: "Hi! I'm away now but I'll see your message soon :)"
+    default: "Hi! I'm away now but I'll see your message soon :)"
+    end_conversation: "I'll see your message by tonight! If you need more help just reply LEARN"
+  scripts:
+    code:
+      enter_code: "Hi, this is StoryTime!\n\nTo get started, just reply with your class code."
+      success: "Great! Here's your first story :)"
+    buttons:
+      story_img_url:  'https://s3.amazonaws.com/st-messenger/day1/%{story_name}/%{story_name}-button.jpg'
+      title:
+        - "Just tap below or reply GO"
+        - "Let's read tonight's story."
+      tap: "Tap here!"
+      tap_here: https://s3.amazonaws.com/st-messenger/day1/tap_here.jpg
+      thanks: "Thank you!"
+      welcome: "You're welcome :)"
+  testing: 
+    name_codes: "__PARENT__||__CHILD__||__TEACHER__"
+    test_texts: "hey this is window text, which can be much longer than button text"
+  

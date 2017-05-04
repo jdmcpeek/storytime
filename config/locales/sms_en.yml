@@ -1,0 +1,77 @@
+en:
+  mms:
+    call_to_action:
+      intro:
+        teacher: "Hi it's __TEACHER__ again! I hope you liked these little books."
+        school: "Hi it's __SCHOOL__ again! We hope you liked these little books."
+        both: "Hi it's __TEACHER__ again! I hope you liked these little books."
+        none: "Hi it's StoryTime again! We hope you liked these little books."
+      fb: "To get more stories through Facebook, tap the link and type your class code, which is __CODE__\njoinstorytime.com/go"
+    stories:
+      floating_shoe:
+        - https://s3.amazonaws.com/st-messenger/day1/floating_shoe/floating_shoe1.jpg
+        - https://s3.amazonaws.com/st-messenger/day1/floating_shoe/floating_shoe2.jpg
+      clouds:
+        - https://s3.amazonaws.com/st-messenger/day1/clouds/clouds1.jpg
+        - https://s3.amazonaws.com/st-messenger/day1/clouds/clouds2.jpg
+      hero:
+        - https://s3.amazonaws.com/st-messenger/day1/hero/hero1.jpg
+        - https://s3.amazonaws.com/st-messenger/day1/hero/hero2.jpg
+      chomp:
+        - https://s3.amazonaws.com/st-messenger/day1/chomp/chomp1.jpg
+        - https://s3.amazonaws.com/st-messenger/day1/chomp/chomp2.jpg
+      bread:
+        - https://s3.amazonaws.com/st-messenger/day1/bread/bread1.jpg
+        - https://s3.amazonaws.com/st-messenger/day1/bread/bread2.jpg
+      baboon:
+        - https://s3.amazonaws.com/st-messenger/day1/baboon/baboon1.jpg
+        - https://s3.amazonaws.com/st-messenger/day1/baboon/baboon2.jpg
+      dino:
+        - https://s3.amazonaws.com/st-messenger/day1/dino/dino1.jpg
+        - https://s3.amazonaws.com/st-messenger/day1/dino/dino2.jpg
+      elephant:
+        - https://s3.amazonaws.com/st-messenger/day1/elephant/elephant1.jpg
+        - https://s3.amazonaws.com/st-messenger/day1/elephant/elephant2.jpg
+      moon:
+        - https://s3.amazonaws.com/st-messenger/day1/moon/moon.jpg
+  feature:
+    messages:
+      opt-in:
+        intro: If these pictures are hard to read, reply TEXT for stories without pictures.
+        confirmation: Great! You'll get stories without pictures now :) 
+    poems:
+      hero:
+        - "SuperHero\n\nSuperSara can break a brick wall with her pinky finger.\nSuperSam can run to China and be back before dinner. (1)"
+        - "My superpower is telling funny jokes until you fall down.\nI'll make you laugh so much, you'll be rolling on the ground!\n\nThe End (2)"
+      bird:
+        - "Baby Bird\n\nThe smallest of the baby birds\nWas too afraid to fly.\nHis sisters flew, his brothers too,\nBut baby bird just cried. (1)"
+        - "His mother said, \"Oh baby bird!\"\n\"You'll do it if you try!\"\n\"I promise you can do it son,\"\n\"A mother never lies!\" (2)"
+        - "And baby bird trusted his mom,\nSo once he dried his eyes,\nHe bravely leapt out from the nest\nAnd flew into the sky. (3)\n\nThe End"
+      whale:
+        - "Eli's Fish\n\nEli went to wash the dishes,\nWhen from the sink out swam some fishes!\nOut came a turtle, crab, and whale,\nAnd then a boat with purple sails!(1)"
+        - "The fish wanted him to jump in,\nBut Eli was too scared to swim!\nThen Eli’s Mom showed her son\nHow kitchen swimming can be fun! (2)"
+        - "With help from Mom, Eli felt brave.\nHe dove into a faucet wave!\nThen Eli smiled with clothes all wet,\nAnd swam with Mom and his new pets. (3)\n\nThe End"
+      seed:
+        - "Magic Seed\n\nI found a giant magic seed,\nIts polka dots were pink and green.\nIt said to me, \"Oh pretty please,\"\n\"Will you please plant and water me?\"(1)"
+        - "And since the seed was so polite\nI planted him that very night.\nWith dirt I packed him snug and tight,\nIt rained until the morning light. (2)"
+        - "When I woke up that magic seed\nHad grown into a big tall tree!\nIts branches had green jelly beans\nAnd bright pink cotton candy leaves! (3)"
+        - "100 hungry birds all flew\nTo eat as much as they could chew.\nI asked the tree, \"May I eat too?\"\nIt said, \"Of course! The rest’s for you!\" (4)\n\nThe End"
+      chores:
+        - "Chores\n\nI love my chores, it's true, it's true!\nI love the things I get to do!\nI get to help take out the trash\nAnd watch the garbage truck go smash! (1)"
+        - "I get to help out with the sink\nAnd use the soap to clean (not drink!)\nBut my most favorite chore of all\nIs when I help to paint the walls! (2)\n\nThe End"
+      sam:
+        - "SpaceShip Sam\n\nThe bathroom is Sam's favorite place\nTo pretend he's in outer space!\nThe bathtub is his fast spaceship.\nWith Mom he takes his daring trip!"
+        - "He steps onto the bathroom floor\nRight into space so he can EXPLORE!\nBut wait! He's afraid he'll float away!\nHe jumps back in the tub to stay. (2)"
+        - "Mom has an idea to help Sam's fright.\nShe gives him a towel, and holds on tight!\nSo Sam gets to see outer space\nWhile Mom holds on and keeps him safe. (3)"
+      baboon:
+        - "Under the Bed\n\nTim's mom told Tim to clean his room.\nUnder his bed, he found a baboon! (1)"
+        - "Tim's mom told Tim to clean his pocket.\nHe found a hippo, two tacos, and a rocket! (2)\n\nThe End"
+      chomp:
+        - "The Hungry Crocodile\n\nThere's a huge hungry croc in the grocery shop\nAnd I think he's coming to chomp me! (1)"
+        - "He licks his big lips,\nAnd swings his big hips,\nBut this croc only wants.... (2)"
+        - "Broccoli!\n\nThe End"
+      elephant:
+        - "My Dancing Elephant\n\nMy pet elephant is the best dancer in town.\nShe twirls on her tippy-toes and spins upside-down! (1)"
+        - "If you like to dance to hip-hop, rock, and funk,\nCome dance with us.\nJust hop on top her trunk! (2)\n\nThe End"
+      
+      
